@@ -1,1 +1,2 @@
 testing some info in here too
+testing communication with server
